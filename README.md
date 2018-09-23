@@ -1,3 +1,5 @@
+> This package has been moved to the [pnpm](https://github.com/pnpm/pnpm) multi-package repository.
+
 # pnpm-list
 
 > List installed packages in a symlinked \`node_modules\`
